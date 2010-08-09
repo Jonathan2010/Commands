@@ -1,0 +1,5 @@
+/Users/jb/Desktop/GIT commands/ButtonView.m: In function '-[ButtonView drawRect:]':
+/Users/jb/Desktop/GIT commands/ButtonView.m:66: warning: 'ButtonView' may not respond to '-runCommandLineTool:'
+/Users/jb/Desktop/GIT commands/ButtonView.m:66: warning: (Messages without a matching method signature
+/Users/jb/Desktop/GIT commands/ButtonView.m:66: warning: will be assumed to return 'id' and accept
+/Users/jb/Desktop/GIT commands/ButtonView.m:66: warning: '...' as arguments.)

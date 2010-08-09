@@ -1,0 +1,398 @@
+TGIT commands
+v7
+r0
+t303054968.821963
+cCheck dependencies
+cProcessInfoPlistFile "/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/Info.plist" GIT_commands-Info.plist
+cCopyStringsFile "/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/jb/Desktop/Command Line/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-ajkxgweeunlweyfaxgzkiejefryo/GIT_commands_Prefix.pch.gch GIT_commands_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/main.o" "/Users/jb/Desktop/Command Line/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT_commandsAppDelegate.o" "/Users/jb/Desktop/Command Line/GIT_commandsAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/ButtonView.o" "/Users/jb/Desktop/Command Line/ButtonView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/MacOS/GIT commands" normal x86_64
+cTouch "/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/jb/Desktop/Command Line/ButtonView.h
+c000000004C59C60E0000000000000221
+t1280951822
+s545
+i<Cocoa/Cocoa.h>
+
+N/Users/jb/Desktop/Command Line/ButtonView.m
+c000000004C59C60E000000000000065E
+t1280951822
+s1630
+i"ButtonView.h"
+
+N/Users/jb/Desktop/Command Line/English.lproj/InfoPlist.strings
+c000000004C59A5AE000000000000002D
+t1280943534
+s45
+
+N/Users/jb/Desktop/Command Line/English.lproj/MainMenu.xib
+c000000004C59B46D000000000002ED12
+t1280947309
+s191762
+
+N/Users/jb/Desktop/Command Line/GIT_commandsAppDelegate.h
+c000000004C59B17E0000000000000180
+t1280946558
+s384
+i<Cocoa/Cocoa.h>
+i"ButtonView.h"
+
+N/Users/jb/Desktop/Command Line/GIT_commandsAppDelegate.m
+c000000004C59B19F00000000000001B1
+t1280946591
+s433
+i"GIT_commandsAppDelegate.h"
+
+N/Users/jb/Desktop/Command Line/GIT_commands_Prefix.pch
+c000000004C59A5AE000000000000009B
+t1280943534
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app
+t1281362168
+s102
+
+N/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/Info.plist
+t1280944697
+s901
+
+N/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/MacOS/GIT commands
+t1281362168
+s17320
+
+N/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/PkgInfo
+t1280944697
+s8
+
+N/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1280944697
+s92
+
+N/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/Resources/English.lproj/MainMenu.nib
+t1280948073
+s36209
+
+N/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/ButtonView.o
+t1281362168
+s24000
+
+N/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT commands.LinkFileList
+c000000004C6008F20000000000000163
+t1281362162
+s355
+
+N/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT_commandsAppDelegate.o
+t1281362168
+s22672
+
+N/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/main.o
+t1281362168
+s4976
+
+N/Users/jb/Desktop/Command Line/main.m
+c000000004C59A5AE0000000000000104
+t1280943534
+s260
+i<Cocoa/Cocoa.h>
+
+N/Users/jb/Desktop/GIT commands/ButtonView.h
+c000000004C59C60E0000000000000221
+t1280951822
+s545
+i<Cocoa/Cocoa.h>
+
+N/Users/jb/Desktop/GIT commands/ButtonView.m
+c000000004C59C60E000000000000065E
+t1280951822
+s1630
+i"ButtonView.h"
+
+N/Users/jb/Desktop/GIT commands/English.lproj/InfoPlist.strings
+c000000004C59A5AE000000000000002D
+t1280943534
+s45
+
+N/Users/jb/Desktop/GIT commands/English.lproj/MainMenu.xib
+c000000004C59B46D000000000002ED12
+t1280947309
+s191762
+
+N/Users/jb/Desktop/GIT commands/GIT_commandsAppDelegate.h
+c000000004C59B17E0000000000000180
+t1280946558
+s384
+i<Cocoa/Cocoa.h>
+i"ButtonView.h"
+
+N/Users/jb/Desktop/GIT commands/GIT_commandsAppDelegate.m
+c000000004C59B19F00000000000001B1
+t1280946591
+s433
+i"GIT_commandsAppDelegate.h"
+
+N/Users/jb/Desktop/GIT commands/GIT_commands_Prefix.pch
+c000000004C59A5AE000000000000009B
+t1280943534
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app
+t1280951823
+s102
+
+N/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/Info.plist
+t1280944697
+s901
+
+N/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/MacOS/GIT commands
+t1280951823
+s17320
+
+N/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/PkgInfo
+t1280944697
+s8
+
+N/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1280944697
+s92
+
+N/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/Resources/English.lproj/MainMenu.nib
+t1280948073
+s36209
+
+N/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/ButtonView.o
+t1280951823
+s24000
+
+N/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT commands.LinkFileList
+c000000004C59AA390000000000000163
+t1280944697
+s355
+
+N/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT_commandsAppDelegate.o
+t1280951823
+s22672
+
+N/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/main.o
+t1280944700
+s4976
+
+N/Users/jb/Desktop/GIT commands/main.m
+c000000004C59A5AE0000000000000104
+t1280943534
+s260
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-ajkxgweeunlweyfaxgzkiejefryo/GIT_commands_Prefix.pch.gch
+t1281362167
+s54265616
+
+N/var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-anqmwnvfmqgtxffjnvsqsthcfncp/GIT_commands_Prefix.pch.gch
+t1280944700
+s54265616
+
+NGIT_commands-Info.plist
+c000000004C59A5AE00000000000003EA
+t1280943534
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies303054962#303054962#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/ButtonView.o" "/Users/jb/Desktop/Command Line/ButtonView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303054968.192929
+e303054968.313156
+r1
+xCompileC
+xbuild/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/ButtonView.o
+x/Users/jb/Desktop/Command Line/ButtonView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/jb/Desktop/Command Line/ButtonView.m303054968#303054968#0(0"0(0#0#43"/Users/jb/Desktop/Command Line/ButtonView.m8600941824#1497"    cd "/Users/jb/Desktop/Command Line"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" "-F/Users/jb/Desktop/Command Line/build/Debug" "-I/Users/jb/Desktop/Command Line/build/Debug/include" "-I/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-ajkxgweeunlweyfaxgzkiejefryo/GIT_commands_Prefix.pch -c "/Users/jb/Desktop/Command Line/ButtonView.m" -o "/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/ButtonView.o"0#
+
+CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/ButtonView.o" "/Users/jb/Desktop/GIT commands/ButtonView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s302644623.072245
+e302644623.275489
+r1
+xCompileC
+xbuild/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/ButtonView.o
+x/Users/jb/Desktop/GIT commands/ButtonView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/jb/Desktop/GIT commands/ButtonView.m302644623#302644623#0(0"0(0#0#43"/Users/jb/Desktop/GIT commands/ButtonView.m8637044384#1497"    cd "/Users/jb/Desktop/GIT commands"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" "-F/Users/jb/Desktop/GIT commands/build/Debug" "-I/Users/jb/Desktop/GIT commands/build/Debug/include" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-anqmwnvfmqgtxffjnvsqsthcfncp/GIT_commands_Prefix.pch -c "/Users/jb/Desktop/GIT commands/ButtonView.m" -o "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/ButtonView.o"0#
+
+CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT_commandsAppDelegate.o" "/Users/jb/Desktop/Command Line/GIT_commandsAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303054967.936030
+e303054968.192828
+r1
+xCompileC
+xbuild/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT_commandsAppDelegate.o
+x/Users/jb/Desktop/Command Line/GIT_commandsAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/jb/Desktop/Command Line/GIT_commandsAppDelegate.m303054967#303054968#0(0"0(0#0#56"/Users/jb/Desktop/Command Line/GIT_commandsAppDelegate.m8601723392#1523"    cd "/Users/jb/Desktop/Command Line"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" "-F/Users/jb/Desktop/Command Line/build/Debug" "-I/Users/jb/Desktop/Command Line/build/Debug/include" "-I/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-ajkxgweeunlweyfaxgzkiejefryo/GIT_commands_Prefix.pch -c "/Users/jb/Desktop/Command Line/GIT_commandsAppDelegate.m" -o "/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT_commandsAppDelegate.o"0#
+
+CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT_commandsAppDelegate.o" "/Users/jb/Desktop/GIT commands/GIT_commandsAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s302644623.071294
+e302644623.300436
+r1
+xCompileC
+xbuild/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT_commandsAppDelegate.o
+x/Users/jb/Desktop/GIT commands/GIT_commandsAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/jb/Desktop/GIT commands/GIT_commandsAppDelegate.m302644623#302644623#0(0"0(0#0#56"/Users/jb/Desktop/GIT commands/GIT_commandsAppDelegate.m8641108128#1523"    cd "/Users/jb/Desktop/GIT commands"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" "-F/Users/jb/Desktop/GIT commands/build/Debug" "-I/Users/jb/Desktop/GIT commands/build/Debug/include" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-anqmwnvfmqgtxffjnvsqsthcfncp/GIT_commands_Prefix.pch -c "/Users/jb/Desktop/GIT commands/GIT_commandsAppDelegate.m" -o "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT_commandsAppDelegate.o"0#
+
+CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/main.o" "/Users/jb/Desktop/Command Line/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303054967.935177
+e303054968.193940
+r1
+xCompileC
+xbuild/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/main.o
+x/Users/jb/Desktop/Command Line/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/jb/Desktop/Command Line/main.m303054967#303054968#0(0"0(0#0#37"/Users/jb/Desktop/Command Line/main.m8602294656#1485"    cd "/Users/jb/Desktop/Command Line"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" "-F/Users/jb/Desktop/Command Line/build/Debug" "-I/Users/jb/Desktop/Command Line/build/Debug/include" "-I/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-ajkxgweeunlweyfaxgzkiejefryo/GIT_commands_Prefix.pch -c "/Users/jb/Desktop/Command Line/main.m" -o "/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/main.o" "/Users/jb/Desktop/GIT commands/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s302637500.840923
+e302637500.992302
+r1
+xCompileC
+xbuild/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/main.o
+x/Users/jb/Desktop/GIT commands/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/jb/Desktop/GIT commands/main.m302637500#302637500#0(0"0(0#0#37"/Users/jb/Desktop/GIT commands/main.m8644101216#1485"    cd "/Users/jb/Desktop/GIT commands"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" "-F/Users/jb/Desktop/GIT commands/build/Debug" "-I/Users/jb/Desktop/GIT commands/build/Debug/include" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-anqmwnvfmqgtxffjnvsqsthcfncp/GIT_commands_Prefix.pch -c "/Users/jb/Desktop/GIT commands/main.m" -o "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/jb/Desktop/Command Line/English.lproj/MainMenu.xib"
+r0
+
+CCompileXIB "/Users/jb/Desktop/GIT commands/English.lproj/MainMenu.xib"
+s302640872.944631
+e302640873.801535
+r1
+xCompileXIB
+x/Users/jb/Desktop/GIT commands/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib302640872#302640873#0(0"0(0#0#57"/Users/jb/Desktop/GIT commands/English.lproj/MainMenu.xib8616608672#351"    cd "/Users/jb/Desktop/GIT commands"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/jb/Desktop/GIT commands/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile "/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s302637497.514792
+e302637497.854315
+r1
+xCopyStringsFile
+x/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings302637497#302637497#0(0"0(0#0#62"/Users/jb/Desktop/GIT commands/English.lproj/InfoPlist.strings8643467392#358"    cd "/Users/jb/Desktop/GIT commands"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/MacOS/GIT commands" normal x86_64
+s303054968.313232
+e303054968.803613
+r1
+xLd
+x/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/MacOS/GIT commands
+xnormal
+xx86_64
+lSLF07#2@92"Link /Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/MacOS/GIT commands303054968#303054968#0(0"0(0#0#0"8590817632#537"    cd "/Users/jb/Desktop/Command Line"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/jb/Desktop/Command Line/build/Debug" "-F/Users/jb/Desktop/Command Line/build/Debug" -filelist "/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT commands.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/MacOS/GIT commands"0#
+
+CLd "/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/MacOS/GIT commands" normal x86_64
+s302644623.300506
+e302644623.420965
+r1
+xLd
+x/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/MacOS/GIT commands
+xnormal
+xx86_64
+lSLF07#2@92"Link /Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/MacOS/GIT commands302644623#302644623#0(0"0(0#0#0"8637196224#537"    cd "/Users/jb/Desktop/GIT commands"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/jb/Desktop/GIT commands/build/Debug" "-F/Users/jb/Desktop/GIT commands/build/Debug" -filelist "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT commands.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/MacOS/GIT commands"0#
+
+CProcessInfoPlistFile "/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/Info.plist" GIT_commands-Info.plist
+r0
+
+CProcessInfoPlistFile "/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/Info.plist" GIT_commands-Info.plist
+s302637497.509445
+e302637497.514706
+r1
+xProcessInfoPlistFile
+x/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/Info.plist
+xGIT_commands-Info.plist
+lSLF07#2@31"Process GIT_commands-Info.plist302637497#302637497#0(0"0(0#0#54"/Users/jb/Desktop/GIT commands/GIT_commands-Info.plist8624969312#307"    cd "/Users/jb/Desktop/GIT commands"    builtin-infoPlistUtility GIT_commands-Info.plist -genpkginfo "/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-ajkxgweeunlweyfaxgzkiejefryo/GIT_commands_Prefix.pch.gch GIT_commands_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303054962.998624
+e303054967.934871
+r1
+xProcessPCH
+x/var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-ajkxgweeunlweyfaxgzkiejefryo/GIT_commands_Prefix.pch.gch
+xGIT_commands_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile GIT_commands_Prefix.pch303054963#303054967#0(0"0(0#0#54"/Users/jb/Desktop/Command Line/GIT_commands_Prefix.pch7020387719316460544#1392"    cd "/Users/jb/Desktop/Command Line"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" "-F/Users/jb/Desktop/Command Line/build/Debug" "-I/Users/jb/Desktop/Command Line/build/Debug/include" "-I/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/jb/Desktop/Command Line/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -c "/Users/jb/Desktop/Command Line/GIT_commands_Prefix.pch" -o /var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-ajkxgweeunlweyfaxgzkiejefryo/GIT_commands_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-anqmwnvfmqgtxffjnvsqsthcfncp/GIT_commands_Prefix.pch.gch GIT_commands_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s302637498.046061
+e302637500.840723
+r1
+xProcessPCH
+x/var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-anqmwnvfmqgtxffjnvsqsthcfncp/GIT_commands_Prefix.pch.gch
+xGIT_commands_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile GIT_commands_Prefix.pch302637498#302637500#0(0"0(0#0#54"/Users/jb/Desktop/GIT commands/GIT_commands_Prefix.pch8636954624#1392"    cd "/Users/jb/Desktop/GIT commands"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" "-F/Users/jb/Desktop/GIT commands/build/Debug" "-I/Users/jb/Desktop/GIT commands/build/Debug/include" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -c "/Users/jb/Desktop/GIT commands/GIT_commands_Prefix.pch" -o /var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-anqmwnvfmqgtxffjnvsqsthcfncp/GIT_commands_Prefix.pch.gch0#
+
+CTouch "/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app"
+s303054968.803705
+e303054968.821911
+r1
+xTouch
+x/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app
+lSLF07#2@65"Touch /Users/jb/Desktop/Command Line/build/Debug/GIT commands.app303054968#303054968#0(0"0(0#0#0"8599780576#124"    cd "/Users/jb/Desktop/Command Line"    /usr/bin/touch -c "/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app"0#
+
+CTouch "/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app"
+s302644623.421057
+e302644623.424119
+r1
+xTouch
+x/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app
+lSLF07#2@65"Touch /Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app302644623#302644623#0(0"0(0#0#0"8662625376#124"    cd "/Users/jb/Desktop/GIT commands"    /usr/bin/touch -c "/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app"0#
+

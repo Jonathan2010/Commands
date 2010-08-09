@@ -1,0 +1,216 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* GIT_commandsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {899, 607}}";
+			sepNavSelRange = "{323, 4}";
+			sepNavVisRange = "{0, 384}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* GIT_commandsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {899, 584}}";
+			sepNavSelRange = "{415, 0}";
+			sepNavVisRange = "{0, 433}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* GIT_commands_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {899, 607}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 155}";
+		};
+	};
+	298B9C19121040D2000A9656 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B05EC81209DE4B005F2702 /* ButtonView.m */;
+		name = "ButtonView.m: 75";
+		rLen = 0;
+		rLoc = 1584;
+		rType = 0;
+		vrLen = 1048;
+		vrLoc = 576;
+	};
+	29B05EB81209DD2E005F2702 /* GIT commands */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "GIT commands";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	29B05EC41209DD4D005F2702 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	29B05EC51209DD4D005F2702 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	29B05EC71209DE4B005F2702 /* ButtonView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 442}}";
+			sepNavSelRange = "{323, 0}";
+			sepNavVisRange = "{65, 261}";
+		};
+	};
+	29B05EC81209DE4B005F2702 /* ButtonView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {943, 1092}}";
+			sepNavSelRange = "{1584, 0}";
+			sepNavVisRange = "{576, 1048}";
+		};
+	};
+	29B05ECA1209DE63005F2702 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* GIT_commands_Prefix.pch */;
+		name = "GIT_commands_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 155;
+		vrLoc = 0;
+	};
+	29B05F4C1209E900005F2702 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* GIT_commandsAppDelegate.h */;
+		name = "GIT_commandsAppDelegate.h: 15";
+		rLen = 4;
+		rLoc = 323;
+		rType = 0;
+		vrLen = 384;
+		vrLoc = 0;
+	};
+	29B05F691209E9E5005F2702 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GIT_commandsAppDelegate.m */;
+		name = "GIT_commandsAppDelegate.m: 18";
+		rLen = 0;
+		rLoc = 415;
+		rType = 0;
+		vrLen = 433;
+		vrLoc = 0;
+	};
+	29B05FF31209FD90005F2702 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B05EC71209DE4B005F2702 /* ButtonView.h */;
+		name = "ButtonView.h: 24";
+		rLen = 0;
+		rLoc = 460;
+		rType = 0;
+		vrLen = 545;
+		vrLoc = 0;
+	};
+	29B05FF71209FD96005F2702 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B05EC81209DE4B005F2702 /* ButtonView.m */;
+		name = "ButtonView.m: 75";
+		rLen = 0;
+		rLoc = 1584;
+		rType = 0;
+		vrLen = 1048;
+		vrLoc = 576;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 29B05EB81209DD2E005F2702 /* GIT commands */;
+		activeTarget = 8D1107260486CEB800E47090 /* GIT commands */;
+		codeSenseManager = 29B05EC51209DD4D005F2702 /* Code sense */;
+		executables = (
+			29B05EB81209DD2E005F2702 /* GIT commands */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					721,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					681,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 303054959;
+			PBXWorkspaceStateSaveDate = 303054959;
+		};
+		perUserProjectItems = {
+			298B9C19121040D2000A9656 /* PBXTextBookmark */ = 298B9C19121040D2000A9656 /* PBXTextBookmark */;
+			29B05ECA1209DE63005F2702 /* PBXTextBookmark */ = 29B05ECA1209DE63005F2702 /* PBXTextBookmark */;
+			29B05F4C1209E900005F2702 /* PBXTextBookmark */ = 29B05F4C1209E900005F2702 /* PBXTextBookmark */;
+			29B05F691209E9E5005F2702 /* PBXTextBookmark */ = 29B05F691209E9E5005F2702 /* PBXTextBookmark */;
+			29B05FF31209FD90005F2702 /* PBXTextBookmark */ = 29B05FF31209FD90005F2702 /* PBXTextBookmark */;
+			29B05FF71209FD96005F2702 /* PBXTextBookmark */ = 29B05FF71209FD96005F2702 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 29B05EC41209DD4D005F2702 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* GIT commands */ = {
+		activeExec = 0;
+		executables = (
+			29B05EB81209DD2E005F2702 /* GIT commands */,
+		);
+	};
+}
