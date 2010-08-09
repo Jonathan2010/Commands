@@ -9,7 +9,10 @@
 /* Begin PBXBuildFile section */
 		1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DDD58140DA1D0A300B32029 /* MainMenu.xib */; };
 		256AC3DA0F4B6AC300CF3369 /* GIT_commandsAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 256AC3D90F4B6AC300CF3369 /* GIT_commandsAppDelegate.m */; };
-		29B05EC91209DE4B005F2702 /* ButtonView.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B05EC81209DE4B005F2702 /* ButtonView.m */; };
+		79E72E9912104A4000D3C621 /* Command.m in Sources */ = {isa = PBXBuildFile; fileRef = 79E72E9812104A4000D3C621 /* Command.m */; };
+		79E72E9F1210543800D3C621 /* CommandFile.plist in Resources */ = {isa = PBXBuildFile; fileRef = 79E72E9E1210543800D3C621 /* CommandFile.plist */; };
+		79E72F071210637200D3C621 /* Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = 79E72F061210637200D3C621 /* Controller.m */; };
+		79E7306C12108DA500D3C621 /* CommandPopUp.m in Sources */ = {isa = PBXBuildFile; fileRef = 79E7306A12108DA500D3C621 /* CommandPopUp.m */; };
 		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
 		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
@@ -23,11 +26,16 @@
 		256AC3D80F4B6AC300CF3369 /* GIT_commandsAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GIT_commandsAppDelegate.h; sourceTree = "<group>"; };
 		256AC3D90F4B6AC300CF3369 /* GIT_commandsAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GIT_commandsAppDelegate.m; sourceTree = "<group>"; };
 		256AC3F00F4B6AF500CF3369 /* GIT_commands_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GIT_commands_Prefix.pch; sourceTree = "<group>"; };
-		29B05EC71209DE4B005F2702 /* ButtonView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ButtonView.h; sourceTree = "<group>"; };
-		29B05EC81209DE4B005F2702 /* ButtonView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ButtonView.m; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		79E72E9712104A4000D3C621 /* Command.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Command.h; sourceTree = "<group>"; };
+		79E72E9812104A4000D3C621 /* Command.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Command.m; sourceTree = "<group>"; };
+		79E72E9E1210543800D3C621 /* CommandFile.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = CommandFile.plist; sourceTree = "<group>"; };
+		79E72F051210637200D3C621 /* Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Controller.h; sourceTree = "<group>"; };
+		79E72F061210637200D3C621 /* Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Controller.m; sourceTree = "<group>"; };
+		79E7306A12108DA500D3C621 /* CommandPopUp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommandPopUp.m; sourceTree = "<group>"; };
+		79E7306B12108DA500D3C621 /* CommandPopUp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CommandPopUp.h; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* GIT_commands-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GIT_commands-Info.plist"; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* GIT commands.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GIT commands.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -49,8 +57,13 @@
 			children = (
 				256AC3D80F4B6AC300CF3369 /* GIT_commandsAppDelegate.h */,
 				256AC3D90F4B6AC300CF3369 /* GIT_commandsAppDelegate.m */,
-				29B05EC71209DE4B005F2702 /* ButtonView.h */,
-				29B05EC81209DE4B005F2702 /* ButtonView.m */,
+				79E72E9712104A4000D3C621 /* Command.h */,
+				79E72E9812104A4000D3C621 /* Command.m */,
+				79E7306B12108DA500D3C621 /* CommandPopUp.h */,
+				79E7306A12108DA500D3C621 /* CommandPopUp.m */,
+				79E72F051210637200D3C621 /* Controller.h */,
+				79E72F061210637200D3C621 /* Controller.m */,
+				79E72E9E1210543800D3C621 /* CommandFile.plist */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -166,6 +179,7 @@
 			files = (
 				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
 				1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */,
+				79E72E9F1210543800D3C621 /* CommandFile.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -178,7 +192,9 @@
 			files = (
 				8D11072D0486CEB800E47090 /* main.m in Sources */,
 				256AC3DA0F4B6AC300CF3369 /* GIT_commandsAppDelegate.m in Sources */,
-				29B05EC91209DE4B005F2702 /* ButtonView.m in Sources */,
+				79E72E9912104A4000D3C621 /* Command.m in Sources */,
+				79E72F071210637200D3C621 /* Controller.m in Sources */,
+				79E7306C12108DA500D3C621 /* CommandPopUp.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

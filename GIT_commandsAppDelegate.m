@@ -8,6 +8,8 @@
 
 #import "GIT_commandsAppDelegate.h"
 
+#import "Command.h"
+
 @implementation GIT_commandsAppDelegate
 
 @synthesize window;
@@ -15,7 +17,7 @@
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
 	// Insert code here to initialize your application 
-	[window setInitialFirstResponder:view];
+	//NSLog(@"%@", [Command loadCommandFile]);
 }
 
 

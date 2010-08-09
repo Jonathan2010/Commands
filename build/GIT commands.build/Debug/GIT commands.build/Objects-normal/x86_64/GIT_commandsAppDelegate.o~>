@@ -1,0 +1,2 @@
+In file included from /Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commandsAppDelegate.m:9:
+/Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commandsAppDelegate.h:13: error: expected specifier-qualifier-list before 'ButtonView'

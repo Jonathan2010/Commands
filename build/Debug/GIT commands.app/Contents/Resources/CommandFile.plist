@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Top</key>
+	<dict>
+		<key>arguments</key>
+		<array>
+			<string>/Applications/Utilities/Terminal.app</string>
+			<string>/usr/bin/top</string>
+		</array>
+		<key>directory</key>
+		<string></string>
+		<key>application directory</key>
+		<string>/usr/bin/open</string>
+	</dict>
+	<key>List All</key>
+	<dict>
+		<key>arguments</key>
+		<array>
+			<string>-A</string>
+		</array>
+		<key>directory</key>
+		<string>~/Desktop</string>
+		<key>application directory</key>
+		<string>/bin/ls</string>
+	</dict>
+</dict>
+</plist>

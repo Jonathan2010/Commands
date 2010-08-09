@@ -1,21 +1,24 @@
 TGIT commands
 v7
 r0
-t303054968.821963
+t303076331.875332
 cCheck dependencies
-cProcessInfoPlistFile "/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/Info.plist" GIT_commands-Info.plist
-cCopyStringsFile "/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
-cCompileXIB "/Users/jb/Desktop/Command Line/English.lproj/MainMenu.xib"
-cProcessPCH /var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-ajkxgweeunlweyfaxgzkiejefryo/GIT_commands_Prefix.pch.gch GIT_commands_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/main.o" "/Users/jb/Desktop/Command Line/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT_commandsAppDelegate.o" "/Users/jb/Desktop/Command Line/GIT_commandsAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/ButtonView.o" "/Users/jb/Desktop/Command Line/ButtonView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cLd "/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/MacOS/GIT commands" normal x86_64
-cTouch "/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app"
+cProcessInfoPlistFile "/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/Info.plist" GIT_commands-Info.plist
+cCopyStringsFile "/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB /Users/charlesarmstrong/Desktop/Commands/Commands/English.lproj/MainMenu.xib
+cCopyPlistFile "/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/Resources/CommandFile.plist" CommandFile.plist
+cProcessPCH /var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-axkamexvlbihpyacbxbxqhsogkva/GIT_commands_Prefix.pch.gch GIT_commands_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/main.o" /Users/charlesarmstrong/Desktop/Commands/Commands/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT_commandsAppDelegate.o" /Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commandsAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/Command.o" /Users/charlesarmstrong/Desktop/Commands/Commands/Command.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/Controller.o" /Users/charlesarmstrong/Desktop/Commands/Commands/Controller.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/CommandPopUp.o" /Users/charlesarmstrong/Desktop/Commands/Commands/CommandPopUp.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/MacOS/GIT commands" normal x86_64
+cTouch "/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app"
 
 N/Developer/SDKs/MacOSX10.6.sdk
-c000000004BF4701900000000000000EE
-t1274310681
+c000000004C5991DF00000000000000EE
+t1280938463
 s238
 
 N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
@@ -27,6 +30,170 @@ N/System/Library/Frameworks/Cocoa.framework/Cocoa
 c000000004A1F2D63000000000000A5E0
 t1243557219
 s42464
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/ButtonView.h
+c000000004C6010490000000000000221
+t1281364041
+s545
+i<Cocoa/Cocoa.h>
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/ButtonView.m
+c000000004C601049000000000000065E
+t1281364041
+s1630
+i"ButtonView.h"
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/Command.h
+c000000004C605929000000000000020D
+t1281382697
+s525
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/Command.m
+c000000004C6052D300000000000006AF
+t1281381075
+s1711
+i"Command.h"
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/CommandFile.plist
+c000000004C60550A00000000000002AD
+t1281381642
+s685
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/CommandPopUp.h
+c000000004C60595000000000000000E3
+t1281382736
+s227
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/CommandPopUp.m
+c000000004C605C6B000000000000021D
+t1281383531
+s541
+i"CommandPopUp.h"
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/Controller.h
+c000000004C6059290000000000000105
+t1281382697
+s261
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/Controller.m
+c000000004C6054EF000000000000070B
+t1281381615
+s1803
+i"Controller.h"
+i"Command.h"
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/English.lproj/InfoPlist.strings
+c000000004C601049000000000000002D
+t1281364041
+s45
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/English.lproj/MainMenu.xib
+c000000004C60570C00000000000309DA
+t1281382156
+s199130
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commandsAppDelegate.h
+c000000004C60530B0000000000000136
+t1281381131
+s310
+i<Cocoa/Cocoa.h>
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commandsAppDelegate.m
+c000000004C60530B00000000000001C9
+t1281381131
+s457
+i"GIT_commandsAppDelegate.h"
+i"Command.h"
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commands_Prefix.pch
+c000000004C6059290000000000000081
+t1281382697
+s129
+i<Cocoa/Cocoa.h>
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app
+t1281383531
+s102
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/Info.plist
+t1281364041
+s901
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/MacOS/GIT commands
+t1281383531
+s24040
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/PkgInfo
+t1281364041
+s8
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/Resources/CommandFile.plist
+t1281381642
+s685
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1281364041
+s92
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/Resources/English.lproj/MainMenu.nib
+t1281382698
+s39645
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/i386/ButtonView.o
+t1281370675
+s19824
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/i386/Command.o
+t1281370675
+s13676
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/i386/GIT commands.LinkFileList
+c000000004C602A300000000000000218
+t1281370672
+s536
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/i386/GIT_commandsAppDelegate.o
+t1281370675
+s17116
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/i386/main.o
+t1281370675
+s4876
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/ButtonView.o
+t1281367796
+s24040
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/Command.o
+t1281382700
+s17744
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/CommandPopUp.o
+t1281383531
+s16420
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/Controller.o
+t1281382700
+s21288
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT commands.LinkFileList
+c000000004C60592900000000000002A9
+t1281382697
+s681
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT_commandsAppDelegate.o
+t1281382700
+s21232
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/main.o
+t1281382700
+s5008
+
+N/Users/charlesarmstrong/Desktop/Commands/Commands/main.m
+c000000004C60104A0000000000000104
+t1281364042
+s260
+i<Cocoa/Cocoa.h>
 
 N/Users/jb/Desktop/Command Line/ButtonView.h
 c000000004C59C60E0000000000000221
@@ -212,14 +379,74 @@ N/var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/Share
 t1280944700
 s54265616
 
+N/var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-axkamexvlbihpyacbxbxqhsogkva/GIT_commands_Prefix.pch.gch
+t1281382700
+s54265616
+
+N/var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-cdupjjmmtsinuycgvcwyestamjwl/GIT_commands_Prefix.pch.gch
+t1281370675
+s56903472
+
 NGIT_commands-Info.plist
-c000000004C59A5AE00000000000003EA
-t1280943534
+c000000004C60104900000000000003EA
+t1281364041
 s1002
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies303054962#303054962#0(0"0(0#1#0"27866456492998768#0"0#
+lSLF07#2@18"Check dependencies303076331#303076331#0(0"0(0#1#0"8621608640#0"0#
+
+CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/i386/ButtonView.o" /Users/charlesarmstrong/Desktop/Commands/Commands/ButtonView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303063475.297372
+e303063475.472184
+r1
+xCompileC
+xbuild/GIT commands.build/Debug/GIT commands.build/Objects-normal/i386/ButtonView.o
+x/Users/charlesarmstrong/Desktop/Commands/Commands/ButtonView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/charlesarmstrong/Desktop/Commands/Commands/ButtonView.m303063475#303063475#0(0"0(0#0#62"/Users/charlesarmstrong/Desktop/Commands/Commands/ButtonView.m8657374208#1691"    cd /Users/charlesarmstrong/Desktop/Commands/Commands    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" -F/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug -I/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/include "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/i386" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-cdupjjmmtsinuycgvcwyestamjwl/GIT_commands_Prefix.pch -c /Users/charlesarmstrong/Desktop/Commands/Commands/ButtonView.m -o "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/i386/ButtonView.o"0#
+
+CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/i386/Command.o" /Users/charlesarmstrong/Desktop/Commands/Commands/Command.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303063475.326836
+e303063475.482007
+r1
+xCompileC
+xbuild/GIT commands.build/Debug/GIT commands.build/Objects-normal/i386/Command.o
+x/Users/charlesarmstrong/Desktop/Commands/Commands/Command.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/charlesarmstrong/Desktop/Commands/Commands/Command.m303063475#303063475#0(0"0(0#0#59"/Users/charlesarmstrong/Desktop/Commands/Commands/Command.m8654815168#1685"    cd /Users/charlesarmstrong/Desktop/Commands/Commands    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" -F/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug -I/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/include "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/i386" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-cdupjjmmtsinuycgvcwyestamjwl/GIT_commands_Prefix.pch -c /Users/charlesarmstrong/Desktop/Commands/Commands/Command.m -o "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/i386/Command.o"0#
+
+CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/i386/GIT_commandsAppDelegate.o" /Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commandsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303063475.178795
+e303063475.326757
+r1
+xCompileC
+xbuild/GIT commands.build/Debug/GIT commands.build/Objects-normal/i386/GIT_commandsAppDelegate.o
+x/Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commandsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commandsAppDelegate.m303063475#303063475#0(0"0(0#0#75"/Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commandsAppDelegate.m8658210784#1717"    cd /Users/charlesarmstrong/Desktop/Commands/Commands    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" -F/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug -I/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/include "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/i386" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-cdupjjmmtsinuycgvcwyestamjwl/GIT_commands_Prefix.pch -c /Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commandsAppDelegate.m -o "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/i386/GIT_commandsAppDelegate.o"0#
+
+CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/i386/main.o" /Users/charlesarmstrong/Desktop/Commands/Commands/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s303063475.177877
+e303063475.297288
+r1
+xCompileC
+xbuild/GIT commands.build/Debug/GIT commands.build/Objects-normal/i386/main.o
+x/Users/charlesarmstrong/Desktop/Commands/Commands/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/charlesarmstrong/Desktop/Commands/Commands/main.m303063475#303063475#0(0"0(0#0#56"/Users/charlesarmstrong/Desktop/Commands/Commands/main.m8658859712#1679"    cd /Users/charlesarmstrong/Desktop/Commands/Commands    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" -F/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug -I/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/include "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/i386" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-cdupjjmmtsinuycgvcwyestamjwl/GIT_commands_Prefix.pch -c /Users/charlesarmstrong/Desktop/Commands/Commands/main.m -o "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/i386/main.o"0#
 
 CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/ButtonView.o" "/Users/jb/Desktop/Command Line/ButtonView.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s303054968.192929
@@ -247,6 +474,58 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@51"Compile /Users/jb/Desktop/GIT commands/ButtonView.m302644623#302644623#0(0"0(0#0#43"/Users/jb/Desktop/GIT commands/ButtonView.m8637044384#1497"    cd "/Users/jb/Desktop/GIT commands"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" "-F/Users/jb/Desktop/GIT commands/build/Debug" "-I/Users/jb/Desktop/GIT commands/build/Debug/include" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-anqmwnvfmqgtxffjnvsqsthcfncp/GIT_commands_Prefix.pch -c "/Users/jb/Desktop/GIT commands/ButtonView.m" -o "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/ButtonView.o"0#
 
+CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/ButtonView.o" /Users/charlesarmstrong/Desktop/Commands/Commands/ButtonView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303060596.268978
+e303060596.417884
+r1
+xCompileC
+xbuild/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/ButtonView.o
+x/Users/charlesarmstrong/Desktop/Commands/Commands/ButtonView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/charlesarmstrong/Desktop/Commands/Commands/ButtonView.m303060596#303060596#0(0"0(0#0#62"/Users/charlesarmstrong/Desktop/Commands/Commands/ButtonView.m8645991072#1697"    cd /Users/charlesarmstrong/Desktop/Commands/Commands    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" -F/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug -I/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/include "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-axkamexvlbihpyacbxbxqhsogkva/GIT_commands_Prefix.pch -c /Users/charlesarmstrong/Desktop/Commands/Commands/ButtonView.m -o "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/ButtonView.o"0#
+
+CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/Command.o" /Users/charlesarmstrong/Desktop/Commands/Commands/Command.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303075500.616155
+e303075500.762333
+r1
+xCompileC
+xbuild/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/Command.o
+x/Users/charlesarmstrong/Desktop/Commands/Commands/Command.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/charlesarmstrong/Desktop/Commands/Commands/Command.m303075500#303075500#0(0"0(0#0#59"/Users/charlesarmstrong/Desktop/Commands/Commands/Command.m8616654752#1691"    cd /Users/charlesarmstrong/Desktop/Commands/Commands    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" -F/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug -I/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/include "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-axkamexvlbihpyacbxbxqhsogkva/GIT_commands_Prefix.pch -c /Users/charlesarmstrong/Desktop/Commands/Commands/Command.m -o "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/Command.o"0#
+
+CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/CommandPopUp.o" /Users/charlesarmstrong/Desktop/Commands/Commands/CommandPopUp.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303076331.487592
+e303076331.843455
+r1
+xCompileC
+xbuild/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/CommandPopUp.o
+x/Users/charlesarmstrong/Desktop/Commands/Commands/CommandPopUp.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/charlesarmstrong/Desktop/Commands/Commands/CommandPopUp.m303076331#303076331#0(0"0(0#0#64"/Users/charlesarmstrong/Desktop/Commands/Commands/CommandPopUp.m8671844192#1701"    cd /Users/charlesarmstrong/Desktop/Commands/Commands    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" -F/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug -I/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/include "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-axkamexvlbihpyacbxbxqhsogkva/GIT_commands_Prefix.pch -c /Users/charlesarmstrong/Desktop/Commands/Commands/CommandPopUp.m -o "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/CommandPopUp.o"0#
+
+CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/Controller.o" /Users/charlesarmstrong/Desktop/Commands/Commands/Controller.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303075500.626416
+e303075500.782994
+r1
+xCompileC
+xbuild/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/Controller.o
+x/Users/charlesarmstrong/Desktop/Commands/Commands/Controller.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/charlesarmstrong/Desktop/Commands/Commands/Controller.m303075500#303075500#0(0"0(0#0#62"/Users/charlesarmstrong/Desktop/Commands/Commands/Controller.m8599732096#1697"    cd /Users/charlesarmstrong/Desktop/Commands/Commands    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" -F/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug -I/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/include "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-axkamexvlbihpyacbxbxqhsogkva/GIT_commands_Prefix.pch -c /Users/charlesarmstrong/Desktop/Commands/Commands/Controller.m -o "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/Controller.o"0#
+
 CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT_commandsAppDelegate.o" "/Users/jb/Desktop/Command Line/GIT_commandsAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s303054967.936030
 e303054968.192828
@@ -272,6 +551,19 @@ xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@64"Compile /Users/jb/Desktop/GIT commands/GIT_commandsAppDelegate.m302644623#302644623#0(0"0(0#0#56"/Users/jb/Desktop/GIT commands/GIT_commandsAppDelegate.m8641108128#1523"    cd "/Users/jb/Desktop/GIT commands"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" "-F/Users/jb/Desktop/GIT commands/build/Debug" "-I/Users/jb/Desktop/GIT commands/build/Debug/include" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-anqmwnvfmqgtxffjnvsqsthcfncp/GIT_commands_Prefix.pch -c "/Users/jb/Desktop/GIT commands/GIT_commandsAppDelegate.m" -o "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT_commandsAppDelegate.o"0#
+
+CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT_commandsAppDelegate.o" /Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commandsAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303075500.462865
+e303075500.626328
+r1
+xCompileC
+xbuild/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT_commandsAppDelegate.o
+x/Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commandsAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commandsAppDelegate.m303075500#303075500#0(0"0(0#0#75"/Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commandsAppDelegate.m8603339008#1723"    cd /Users/charlesarmstrong/Desktop/Commands/Commands    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" -F/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug -I/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/include "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-axkamexvlbihpyacbxbxqhsogkva/GIT_commands_Prefix.pch -c /Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commandsAppDelegate.m -o "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT_commandsAppDelegate.o"0#
 
 CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/main.o" "/Users/jb/Desktop/Command Line/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s303054967.935177
@@ -299,6 +591,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@45"Compile /Users/jb/Desktop/GIT commands/main.m302637500#302637500#0(0"0(0#0#37"/Users/jb/Desktop/GIT commands/main.m8644101216#1485"    cd "/Users/jb/Desktop/GIT commands"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" "-F/Users/jb/Desktop/GIT commands/build/Debug" "-I/Users/jb/Desktop/GIT commands/build/Debug/include" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-anqmwnvfmqgtxffjnvsqsthcfncp/GIT_commands_Prefix.pch -c "/Users/jb/Desktop/GIT commands/main.m" -o "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/main.o"0#
 
+CCompileC "build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/main.o" /Users/charlesarmstrong/Desktop/Commands/Commands/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303075500.461694
+e303075500.616065
+r1
+xCompileC
+xbuild/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/main.o
+x/Users/charlesarmstrong/Desktop/Commands/Commands/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/charlesarmstrong/Desktop/Commands/Commands/main.m303075500#303075500#0(0"0(0#0#56"/Users/charlesarmstrong/Desktop/Commands/Commands/main.m8655301184#1685"    cd /Users/charlesarmstrong/Desktop/Commands/Commands    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" -F/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug -I/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/include "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -include /var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-axkamexvlbihpyacbxbxqhsogkva/GIT_commands_Prefix.pch -c /Users/charlesarmstrong/Desktop/Commands/Commands/main.m -o "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/main.o"0#
+
 CCompileXIB "/Users/jb/Desktop/Command Line/English.lproj/MainMenu.xib"
 r0
 
@@ -309,6 +614,26 @@ r1
 xCompileXIB
 x/Users/jb/Desktop/GIT commands/English.lproj/MainMenu.xib
 lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib302640872#302640873#0(0"0(0#0#57"/Users/jb/Desktop/GIT commands/English.lproj/MainMenu.xib8616608672#351"    cd "/Users/jb/Desktop/GIT commands"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/jb/Desktop/GIT commands/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB /Users/charlesarmstrong/Desktop/Commands/Commands/English.lproj/MainMenu.xib
+s303075497.814273
+e303075498.157262
+r1
+xCompileXIB
+x/Users/charlesarmstrong/Desktop/Commands/Commands/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib303075497#303075498#0(0"0(0#0#76"/Users/charlesarmstrong/Desktop/Commands/Commands/English.lproj/MainMenu.xib8642972224#404"    cd /Users/charlesarmstrong/Desktop/Commands/Commands    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/Resources/English.lproj/MainMenu.nib" /Users/charlesarmstrong/Desktop/Commands/Commands/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyPlistFile "/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/Resources/CommandFile.plist" CommandFile.plist
+s303074442.212293
+e303074442.231286
+r1
+xCopyPlistFile
+x/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/Resources/CommandFile.plist
+xCommandFile.plist
+lSLF07#2@22"Copy CommandFile.plist303074442#303074442#0(0"0(0#0#67"/Users/charlesarmstrong/Desktop/Commands/Commands/CommandFile.plist8639457760#275"    cd /Users/charlesarmstrong/Desktop/Commands/Commands    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist CommandFile.plist --outdir "/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/Resources"0#
+
+CCopyStringsFile "/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
 
 CCopyStringsFile "/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
 r0
@@ -321,6 +646,26 @@ xCopyStringsFile
 x/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/Resources/English.lproj/InfoPlist.strings
 xEnglish.lproj/InfoPlist.strings
 lSLF07#2@36"Copy English.lproj/InfoPlist.strings302637497#302637497#0(0"0(0#0#62"/Users/jb/Desktop/GIT commands/English.lproj/InfoPlist.strings8643467392#358"    cd "/Users/jb/Desktop/GIT commands"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/MacOS/GIT commands" normal i386
+s303063475.482090
+e303063475.626973
+r1
+xLd
+x/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/MacOS/GIT commands
+xnormal
+xi386
+lSLF07#2@111"Link /Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/MacOS/GIT commands303063475#303063475#0(0"0(0#0#0"8658526528#622"    cd /Users/charlesarmstrong/Desktop/Commands/Commands    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug -F/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug -filelist "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/i386/GIT commands.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/MacOS/GIT commands"0#
+
+CLd "/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/MacOS/GIT commands" normal x86_64
+s303076331.843536
+e303076331.873142
+r1
+xLd
+x/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/MacOS/GIT commands
+xnormal
+xx86_64
+lSLF07#2@111"Link /Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/MacOS/GIT commands303076331#303076331#0(0"0(0#0#0"8669214176#626"    cd /Users/charlesarmstrong/Desktop/Commands/Commands    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug -F/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug -filelist "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT commands.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/MacOS/GIT commands"0#
 
 CLd "/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/MacOS/GIT commands" normal x86_64
 s303054968.313232
@@ -341,6 +686,9 @@ x/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/MacOS/GIT 
 xnormal
 xx86_64
 lSLF07#2@92"Link /Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/MacOS/GIT commands302644623#302644623#0(0"0(0#0#0"8637196224#537"    cd "/Users/jb/Desktop/GIT commands"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/jb/Desktop/GIT commands/build/Debug" "-F/Users/jb/Desktop/GIT commands/build/Debug" -filelist "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/Objects-normal/x86_64/GIT commands.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/jb/Desktop/GIT commands/build/Debug/GIT commands.app/Contents/MacOS/GIT commands"0#
+
+CProcessInfoPlistFile "/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app/Contents/Info.plist" GIT_commands-Info.plist
+r0
 
 CProcessInfoPlistFile "/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app/Contents/Info.plist" GIT_commands-Info.plist
 r0
@@ -379,6 +727,40 @@ xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@34"Precompile GIT_commands_Prefix.pch302637498#302637500#0(0"0(0#0#54"/Users/jb/Desktop/GIT commands/GIT_commands_Prefix.pch8636954624#1392"    cd "/Users/jb/Desktop/GIT commands"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" "-F/Users/jb/Desktop/GIT commands/build/Debug" "-I/Users/jb/Desktop/GIT commands/build/Debug/include" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/jb/Desktop/GIT commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -c "/Users/jb/Desktop/GIT commands/GIT_commands_Prefix.pch" -o /var/folders/Bo/BofahE0zHtaYJPj7f2OM2U++-+s/-Caches-/com.apple.Xcode.1038/SharedPrecompiledHeaders/GIT_commands_Prefix-anqmwnvfmqgtxffjnvsqsthcfncp/GIT_commands_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-axkamexvlbihpyacbxbxqhsogkva/GIT_commands_Prefix.pch.gch GIT_commands_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s303075498.157384
+e303075500.461513
+r1
+xProcessPCH
+x/var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-axkamexvlbihpyacbxbxqhsogkva/GIT_commands_Prefix.pch.gch
+xGIT_commands_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile GIT_commands_Prefix.pch303075498#303075500#0(0"0(0#0#73"/Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commands_Prefix.pch8635738560#1573"    cd /Users/charlesarmstrong/Desktop/Commands/Commands    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" -F/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug -I/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/include "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/x86_64" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -c /Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commands_Prefix.pch -o /var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-axkamexvlbihpyacbxbxqhsogkva/GIT_commands_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-cdupjjmmtsinuycgvcwyestamjwl/GIT_commands_Prefix.pch.gch GIT_commands_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s303063472.890477
+e303063475.177679
+r1
+xProcessPCH
+x/var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-cdupjjmmtsinuycgvcwyestamjwl/GIT_commands_Prefix.pch.gch
+xGIT_commands_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile GIT_commands_Prefix.pch303063472#303063475#0(0"0(0#0#73"/Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commands_Prefix.pch8644615648#1569"    cd /Users/charlesarmstrong/Desktop/Commands/Commands    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-generated-files.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-own-target-headers.hmap" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-all-target-headers.hmap" -iquote "/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/GIT commands-project-headers.hmap" -F/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug -I/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/include "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources/i386" "-I/Users/charlesarmstrong/Desktop/Commands/Commands/build/GIT commands.build/Debug/GIT commands.build/DerivedSources" -c /Users/charlesarmstrong/Desktop/Commands/Commands/GIT_commands_Prefix.pch -o /var/folders/CY/CYQsy+s6FHKCQrMWq7vPd++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GIT_commands_Prefix-cdupjjmmtsinuycgvcwyestamjwl/GIT_commands_Prefix.pch.gch0#
+
+CTouch "/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app"
+s303076331.873226
+e303076331.875284
+r1
+xTouch
+x/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app
+lSLF07#2@84"Touch /Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app303076331#303076331#0(0"0(0#0#0"8652131008#160"    cd /Users/charlesarmstrong/Desktop/Commands/Commands    /usr/bin/touch -c "/Users/charlesarmstrong/Desktop/Commands/Commands/build/Debug/GIT commands.app"0#
 
 CTouch "/Users/jb/Desktop/Command Line/build/Debug/GIT commands.app"
 s303054968.803705

@@ -8,11 +8,8 @@
 
 #import <Cocoa/Cocoa.h>
 
-#import "ButtonView.h"
-
-@interface GIT_commandsAppDelegate : NSObject <NSApplicationDelegate> {
-    NSWindow *window;
-	IBOutlet ButtonView *view;
+@interface GIT_commandsAppDelegate : NSObject <NSApplicationDelegate>
+{
 }
 
 @property (assign) IBOutlet NSWindow *window;
